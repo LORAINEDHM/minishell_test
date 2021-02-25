@@ -1,0 +1,11 @@
+// liste des malloc qui sont créé et pas free
+
+g_envp et g_envp[i];
+
+cm1 >loraine >simon >lily >>llor >> ssim >> llil <lolo <sim <li arg1 arg2 arg3 | cm2 >corentin >gautier >moi >>cchapi >>ggaut >>mme <chapi <gau
+
+cm1 <li <ba <lol << 10 <<20 >1 >2 >3 <<30 | cm2 <<40 <youhou <<50 >4 >5 >6 <<60 | cm3 <wtf <<70 <cestouf <<80 >7 <<90 >8 >9
+
+cm1 <li <ba <lol <<10 <<20
+
+echo sim 1 2 3 >10 >20 >>30 <100 | echo loraine 4 5 6 | echo lily 7 8 9 ; echo jamila youhou

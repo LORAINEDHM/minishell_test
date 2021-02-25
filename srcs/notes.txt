@@ -1,0 +1,6 @@
+'asd\$SHELL*'
+'asd\'"$SHELL*"
+'efsd\'
+"asd\$SHELL*"   = ok
+'wsrd'  = ok
+\sffd\'  = ok
